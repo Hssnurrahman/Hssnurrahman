@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hssnurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="hssnurrahman" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://hssan.dev](https://hssan.dev)
+
+- 📫 How to reach me **hssnurrahman@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hassan-ur-rahman-03b787229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-ur-rahman-03b787229" height="30" width="40" /></a>
